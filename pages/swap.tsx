@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 
 const SWAP: NextPage = () => {
-  return <div>This is </div>;
+  return <div>This is Swap</div>;
 };
 
 export default SWAP;
